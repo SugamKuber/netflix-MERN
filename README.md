@@ -11,7 +11,7 @@ backend deployment link:https://netflix-backend-production-57a6.up.railway.app
 (env vars are not used)
 
 frontend deployment link:
-https://main--dainty-medovik-7770be.netlify.app/
+https://stellular-elf-f972b8.netlify.app/
 
 how to use ?
 
